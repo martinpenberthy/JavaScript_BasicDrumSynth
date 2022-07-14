@@ -1,0 +1,2 @@
+# JavaScript_BasicDrumSynth
+This was a final project for a JavaScript class and consists of a drum/white noise generator using the WebAudio API. The user has the option to play a short white noise sound that is generated from scratch. There is also the option to generate and play a snare and kick sound which are also generated. Please see the included slide deck for more information on exact implementation.
